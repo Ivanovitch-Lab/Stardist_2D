@@ -7,8 +7,8 @@ from stardist.plot import render_label
 from scipy.stats import zscore
 
 # Input and output folders
-input_folder = r"C:\Users\ucklkdi\OneDrive - University College London\Desktop\transfer 10_6_25\medial_stardist"
-output_folder = r"C:\Users\ucklkdi\OneDrive - University College London\Desktop\transfer 10_6_25\medial_stardist_filtered"
+input_folder = 
+output_folder = 
 os.makedirs(output_folder, exist_ok=True)
 
 for file_name in os.listdir(input_folder):
